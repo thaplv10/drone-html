@@ -1,0 +1,40 @@
+@font-face {
+    font-family: "primary-font";
+    src: url(../font/ヒラギノ丸ゴ/ヒラギノ明朝\ ProN.ttc);
+}
+
+@font-face {
+    font-family: "hiragino-pro-w3";
+    src: url(../font/hiragino/Hiragino2-Pro-W3.otf);
+}
+
+@font-face {
+    font-family: "hiragino-pro-w4";
+    src: url(../font/hiragino/Hiragino2-Pro-W4.otf);
+}
+
+@font-face {
+    font-family: "hiragino-pro-w6";
+    src: url(../font/hiragino/Hiragino2-Pro-W6.otf);
+}
+
+@font-face {
+    font-family: "hiragino-ProN-w3";
+    src: url(../font/hiragino/Hiragino2-ProN-W3.otf);
+}
+
+@font-face {
+    font-family: "hiragino-ProN-w6";
+    src: url(../font/hiragino/Hiragino2-ProN-W6.otf);
+}
+
+@font-face {
+    font-family: "hiragino-san-w6";
+    src: url(../font/hiragino/Hiragino-Sans-GB-W6.otf);
+}
+
+
+@font-face {
+    font-family: "lato";
+    src: url(../font/lato/Lato-Regular.ttf);
+}
