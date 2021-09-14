@@ -46,30 +46,3 @@ a {
     color: unset;
 }
 
-.clearfix {
-    float: none;
-}
-
-.position-relative {
-    position: relative !important;
-}
-
-.d-flex {
-    display: flex;
-}
-
-.flex-row {
-    flex-direction: row;
-}
-
-.justify-space-between {
-    justify-content: space-between;
-}
-
-.margin-0 {
-    margin: 0 !important;
-}
-
-.bg-black {
-    background-color: #1a1a1a;
-}
